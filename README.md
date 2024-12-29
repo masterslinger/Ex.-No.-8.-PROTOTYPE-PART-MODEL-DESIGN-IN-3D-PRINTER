@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/user-attachments/assets/7ec81eaf-6ab9-4fc4-b127-c3d34cccbd21)
 
-### Name:
-### Register Number:
+
+### Name: Syed Abu Hanifa
+### Register Number: 24009356
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
